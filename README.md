@@ -1,0 +1,7 @@
+- 👋 Hello, I'm @lalmeidadeveloper
+- I'm interested in web and mobile development ...
+- 🌱 I'm currently learning HTML5 and CSS3 ...
+- 📫 How to reach me:
+- https://www.instagram.com/lalmeidadeveloper/
+- https://www.facebook.com/profile.php?id=100007488167934
+- https://www.linkedin.com/in/lalmeidadeveloper/
